@@ -1,11 +1,11 @@
 ## Banking Web Portal - Backend Coding - API
 
 #### This portal is built using technologies like:
-<img src="https://github.com/RishabhShrivastav758/BankingPortalBackEnd/blob/main/assets/1231546453.png" alt="image" height="90"><img src="https://github.com/RishabhShrivastav758/BankingPortalBackEnd/blob/main/assets/4532134553.png" alt="image" height="45">
-<img src="https://github.com/RishabhShrivastav758/BankingPortalBackEnd/blob/main/assets/456456456.png" alt="image" height="140">
-<img src="https://github.com/RishabhShrivastav758/BankingPortalBackEnd/blob/main/assets/6764645645.png" alt="image" height="70">
-<img src="https://github.com/RishabhShrivastav758/BankingPortalBackEnd/blob/main/assets/32163546464684654.png" alt="image" height="100">
-<img src="https://github.com/RishabhShrivastav758/BankingPortalBackEnd/blob/main/assets/4664654654.png" alt="image" height="80">
+<img src="https://github.com/RishabhShrivastav758/BankingPortalBackEnd/blob/main/assets/1231546453.png" alt="image" height="90">            <img src="https://github.com/RishabhShrivastav758/BankingPortalBackEnd/blob/main/assets/4532134553.png" alt="image" height="45">
+
+<img src="https://github.com/RishabhShrivastav758/BankingPortalBackEnd/blob/main/assets/456456456.png" alt="image" height="140">             <img src="https://github.com/RishabhShrivastav758/BankingPortalBackEnd/blob/main/assets/6764645645.png" alt="image" height="70">
+
+<img src="https://github.com/RishabhShrivastav758/BankingPortalBackEnd/blob/main/assets/32163546464684654.png" alt="image" height="100">           <img src="https://github.com/RishabhShrivastav758/BankingPortalBackEnd/blob/main/assets/4664654654.png" alt="image" height="80">
 
 ## Banking Web Portal contains features like:
 
